@@ -6,10 +6,11 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Rohan - Prod Admin"
-    email: "rohan@eazybank.com"
+    email: "{cipher}b5a66a3d754c02cd8ddca0269d6460ade2ce780ffeacec32ad493fb8fc66debcad632110eed3d350359d5b1a3e6d0010"
   onCallSupport:
     -(555)555-2345
     -(555)523-1332
+
 
 
 
