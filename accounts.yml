@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related dev APIs"
+  message: "Welcome to EazyBank accounts related dev Webhook APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
